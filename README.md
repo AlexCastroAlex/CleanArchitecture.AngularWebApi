@@ -7,7 +7,6 @@
 * [AutoMapper](https://automapper.org/)
 * [FluentValidation](https://fluentvalidation.net/)
 * [NUnit](https://nunit.org/), [FluentAssertions](https://fluentassertions.com/), [Moq](https://github.com/moq) & [Respawn](https://github.com/jbogard/Respawn)
-* [Docker](https://www.docker.com/)
 
 ## Getting Started
 
